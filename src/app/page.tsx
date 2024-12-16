@@ -21,7 +21,7 @@ export default function Home() {
       <div className="bg-[#FAF4F4] lg:h-[500px] flex lg:flex-row flex-col justify-center items-center gap-5 p-3">
 
         <div className="border-2 hover:border-black lg:h-[400px] lg:w-[600px] flex flex-col p-5 w-full h-[40%] sm:w-[60%]">
-          <img src="Granite square side table 1.png" alt="table" height={300} width={300} className="self-center"/>
+          <img src="/Granite square side table 1.png" alt="table" height={300} width={300} className="self-center"/>
           <div className="ml-20">
             <p className="text-[30px]">Side Table</p>
             <Btn text="View More"/>
@@ -29,7 +29,7 @@ export default function Home() {
         </div>
 
         <div className="border-2 hover:border-black lg:h-[400px] lg:w-[600px] flex flex-col p-5 w-full h-[40%] sm:w-[60%]">
-          <img src="Cloud sofa three seater + ottoman_3 1.png" alt="sofa" height={250} width={322} className="self-center"/>
+          <img src="/Cloud sofa three seater.png" alt="sofa" height={250} width={322} className="self-center"/>
           <div className="ml-20">
             <p className="text-[30px]">Cloud Sofa</p>
             <Btn text="View More"/>
