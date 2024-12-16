@@ -64,10 +64,44 @@
     @apply bg-background text-foreground;
   }
 }
-
+*{
+  box-sizing: border-box;
+}
 .instagram{
-  background: url('/Rectangle 17.png') center/cover no-repeat;
+  background: url('/Rectangle 17.png') right/cover no-repeat;
 }
 .shop-hero{
-  background: url('/Rectangle 1.png') center/cover no-repeat;
+  background: url('/Rectangle 1.png') left/cover no-repeat;
+}
+.poppins{
+  font-family: var(--font-poppins);
+}
+.rocketSeater{
+  background: url("/Rocket_single_seater.png") center/cover no-repeat;
+}
+
+
+.inputBox{
+  height: 65px;
+  width: 250px;
+  border: 1px solid #9F9F9F;
+  border-radius: 10px;
+  outline: none;
+  margin-top: 20px;
+  margin-bottom: 36px;
+}
+
+@media screen and (min-width: 500px) {
+  .hero {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .font {
+    font-size: 32px;
+  }
+
+  .inputBox {
+    width: 443px;
+  }
 }

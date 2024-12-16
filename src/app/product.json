@@ -1,110 +1,114 @@
 [
     {
-        "id": "0",
+        "id": 0,
         "src": "/Trenton modular sofa_3 1.png",
         "price": 25000,
-        "title":"Trenton modular sofa"
+        "title":"Trenton modular sofa",
+        "isCart": false
     },
     {
         "id": 1,
         "src": "/Granite dining table with dining chair 1.png",
         "price": 25000,
-        "title":"Granite dining table with dining chair"
+        "title":"Granite dining table with dining chair",
+        "isCart": false
     },
     {
         "id": 2,
         "src": "/Mask group.png",
-        "price": 3,
-        "title":""
+        "price": 25000,
+        "title":"Outdoor bar table and stool",
+        "isCart": false
     },
     {
         "id": 3,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Mask group (1).png",
+        "price": 25000,
+        "title":"Plain console with teak mirror",
+        "isCart": false
     },
     {
         "id": 4,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Grain-coffee-table.png",
+        "price": 15000,
+        "title":"Grain coffee table",
+        "isCart": false
     },
     {
         "id": 5,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Kent coffee table 1.png",
+        "price": 225000,
+        "title":"Kent coffee table",
+        "isCart": false
     },
     {
         "id": 6,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Mask group (2).png",
+        "price": 251000,
+        "title":"Round Coffee Table",
+        "isCart": false
     },
     {
         "id": 7,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Reclaimed teak coffee table 1.png",
+        "price": 25200,
+        "title":"Reclaimed teak coffee table",
+        "isCart": false
     },
     {
         "id": 8,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Plain console_ 1.png",
+        "price": 258200,
+        "title":"Plain Console",
+        "isCart": false
     },
     {
         "id": 9,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Reclaimed teak Sideboard 1.png",
+        "price": 20000,
+        "title":"Reclaimed teak Sideboard",
+        "isCart": false
     },
     {
         "id": 10,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Mask group (3).png",
+        "price": 200000,
+        "title":"Table and Chair",
+        "isCart": false
     },
     {
         "id": 11,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Bella chair and table 1.png",
+        "price": 100000,
+        "title":"Bella chair and table",
+        "isCart": false
     },
     {
         "id": 12,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Granite square side table 1.png",
+        "price": 258800,
+        "title":"Granite square side table",
+        "isCart": false
     },
     {
         "id": 13,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Asgaard sofa 1.png",
+        "price": 250000,
+        "title":"Asgaard Sofa",
+        "isCart": false
     },
     {
         "id": 14,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Maya sofa three seater 1.png",
+        "price": 115000,
+        "title":"Maya sofa three seater",
+        "isCart": false
     },
     {
         "id": 15,
-        "src": "",
-        "price": 3,
-        "title":""
-    },
-    {
-        "id": 16,
-        "src": "",
-        "price": 3,
-        "title":""
-    },
-    {
-        "id": 17,
-        "src": "",
-        "price": 3,
-        "title":""
+        "src": "/Mask group (4).png",
+        "price": 244000,
+        "title":"Outdoor sofa set",
+        "isCart": false
     }
 ]

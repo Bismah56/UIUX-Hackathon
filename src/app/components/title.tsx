@@ -9,7 +9,7 @@ export default function HeroSection(props:Iprops) {
   return (
     <main>
       {/* Hero section */}
-      <section className="shop-hero h-[316px] flex flex-col justify-center items-center">
+      <section className="shop-hero lg:bg-center h-[316px] flex flex-col justify-center items-center">
             {/* Logo */}
             <img src="Meubel House_Logos-05.png" alt="logo" />
 
