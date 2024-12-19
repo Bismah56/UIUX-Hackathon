@@ -14,11 +14,13 @@ export default function HeroSection(props:Iprops) {
             <img src="Meubel House_Logos-05.png" alt="logo" />
 
             {/* Title */}
-            <h1 className="text-4xl">{props.title}</h1>
+            <h1 className="text-4xl mb-3">{props.title}</h1>
 
             {/* Link to Home Page*/}
-            <Link href="/">Home</Link>
-            <ChevronRight />{props.title}
+            <div className="flex">
+              <Link href="/" className="font-medium">Home</Link>
+              <ChevronRight />{props.title}
+            </div>
       </section>
     </main>
   );
